@@ -1,0 +1,17 @@
+.classe1{
+    color: green;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+.classe2{
+    color: blue;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .fundo{
+        background-color: black;
+        color: white;
+    }
+    .meiuca{
+        width: 600px;
+    }
